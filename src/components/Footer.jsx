@@ -18,9 +18,9 @@ function Footer() {
             target="_blank"
             rel="noreferrer"
             style={{ color: "white" }}
-            href="https://github.com/Abderraouf-Rahmani"
+            href="https://github.com/Nishant96089"
           >
-            &nbsp; Abderraouf
+            &nbsp; Nishant96089
           </a>
         </p>
       </footer>
